@@ -1,0 +1,18 @@
+html {
+    min-height: 100%;
+    min-width: 100%;
+}
+h1 {
+    width: 50%;
+}
+nav {
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.navTabs {
+    background-color: transparent;
+    border: .5rem solid;
+    font-size: 3rem;
+    width: 10rem;
+}
